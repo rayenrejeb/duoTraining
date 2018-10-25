@@ -12,6 +12,6 @@ public class MainController {
 
     @GetMapping("/count")
     public int getNumber(){
-        return 1;
+        return 2;
     }
 }
